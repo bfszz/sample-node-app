@@ -16,6 +16,9 @@ pkg_name=sample-node-app
 pkg_origin=xlktest1
 pkg_version="1.1.1"
 pkg_deps=(core/node)
+pkg_svc_user=dev
+
+
 
 # Habitat provides you with a number of built-in "callbacks" to use
 # in the course of your build, all of which are explained in the docs
