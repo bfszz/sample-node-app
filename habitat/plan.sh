@@ -16,7 +16,7 @@ pkg_name=sample-node-app
 pkg_origin=xlktest1
 pkg_version="1.1.1"
 pkg_deps=(core/node)
-pkg_svc_user=dev
+pkg_svc_user="dev"
 
 
 
